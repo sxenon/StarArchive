@@ -71,6 +71,8 @@ https://github.com/bingoogolapple/BGAAdapter-Android
 （33）Nice loading animations for Android https://github.com/81813780/AVLoadingIndicatorView
 
 （34）Picker for android, include date&time/option/number/address/city/color/file&directory. https://github.com/gzu-liyujiang/AndroidPicker
+
+（35）仿iOS的PickerView控件，有时间选择和选项选择并支持一二三级联动效果 https://github.com/saiwu-bigkoo/Android-PickerView
  
 2、合集
 
@@ -86,6 +88,8 @@ https://github.com/bingoogolapple/BGAAdapter-Android
 
 （6）androiddemo合集 https://github.com/r17171709/android_demo
 
+（7）Do's and Don'ts for Android development, by Futurice developers https://github.com/futurice/android-best-practices
+
 3、工具
 
 （1）适用于Java和Android的快速、低内存占用的汉字转拼音库。https://github.com/promeG/TinyPinyin
@@ -95,6 +99,8 @@ https://github.com/bingoogolapple/BGAAdapter-Android
 （3）a shortcut lib for easy use shortcut https://github.com/xuyisheng/ShortcutHelper
 
 （4）Barcode Scanner Libraries for Android https://github.com/dm77/barcodescanner
+
+（5）Android Common Utils or Helper.https://github.com/litesuits/android-common
 
 4、编译、调试
 
@@ -118,6 +124,8 @@ https://github.com/bingoogolapple/BGAAdapter-Android
 
 （2）Event Bus By RxJava. https://github.com/AndroidKnife/RxBus
 
+（3）A Job Queue specifically written for Android to easily schedule jobs (tasks) that run in the background, improving UX and application stability.https://github.com/yigit/android-priority-jobqueue
+
 6、热更新，插件等
 
 （1）Tinker is a hot-fix solution library for Android, it supports dex, library and resources update without reinstall apk.
@@ -128,6 +136,8 @@ https://github.com/Tencent/tinker
 （3）A plugin framework on android,Run any third-party apk without installation, modification or repackage https://github.com/DroidPluginTeam/DroidPlugin
 
 （4）AndFix is a library that offer hot-fix for Android App.https://github.com/alibaba/AndFix
+
+（5）Android Plugin Framework 插件开发框架及示例程序，原理介绍等 https://github.com/limpoxe/Android-Plugin-Framework
 
 7、设计模式，架构模式
 
