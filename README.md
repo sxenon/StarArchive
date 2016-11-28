@@ -1,4 +1,4 @@
-# collate
+# StarArchive
 点赞项目整理
 
 1、自定义View
@@ -48,18 +48,53 @@
 （22）An android view looper library. Support for Android 2.2 and up. https://github.com/H07000223/FlycoBanner_Master
 
 （23）An Android TabLayout Lib https://github.com/H07000223/FlycoTabLayout
+
+（24）An Android Dialog Lib simplify customization.https://github.com/H07000223/FlycoDialog_Master
+
+（25）Android widget with pull to refresh for all the views,and support loadMore for ListView , RecyclerView, GridView and SwipeRefreshLayout.https://github.com/Chanven/CommonPullToRefresh
+
+（26）ArrayAdapter,pull to refresh,auto load more,Header/Footer,EmptyView,ProgressView,ErrorView https://github.com/Jude95/EasyRecyclerView
+
+（27）在 AdapterView 和 RecyclerView 中通用的 Adapter 和 ViewHolder。RecyclerView 支持 DataBinding 、多种 Item 类型、添加 Header 和 Footer
+https://github.com/bingoogolapple/BGAAdapter-Android
+
+（28）Android 万能的Adapter for ListView,RecyclerView,GridView等，支持多种Item类型的情况。https://github.com/hongyangAndroid/baseAdapter
+
+（29）A flow layout for Android https://github.com/LyndonChin/AndroidFlowLayout
+
+（30）An android custom view which looks like the menu in Path 2.0 (for iOS).https://github.com/daCapricorn/ArcMenu
+
+（31）iOS UIActionSheet for Android https://github.com/baoyongzhang/android-ActionSheet
+
+（32）AndroidTreeView. TreeView implementation for android https://github.com/bmelnychuk/AndroidTreeView
+
+（33）Nice loading animations for Android https://github.com/81813780/AVLoadingIndicatorView
+
+（34）Picker for android, include date&time/option/number/address/city/color/file&directory. https://github.com/gzu-liyujiang/AndroidPicker
  
 2、合集
 
-a、A collection of iOS components.https://github.com/ibireme/YYKit
+（1）A collection of iOS components.https://github.com/ibireme/YYKit
+
+（2）Source code to omnibus edition of _The Busy Coder's Guide to Android Development  https://github.com/commonsguy/cw-omnibus
+
+（3）Examples of Android applications https://github.com/novoda/android-demos 
+
+（4）Simple basic isolated apps, for budding android devs. https://github.com/nisrulz/android-examples
+
+（5）Collect and classify android open source projects https://github.com/Trinea/android-open-project
+
+（6）androiddemo合集 https://github.com/r17171709/android_demo
 
 3、工具
 
-a、适用于Java和Android的快速、低内存占用的汉字转拼音库。https://github.com/promeG/TinyPinyin
+（1）适用于Java和Android的快速、低内存占用的汉字转拼音库。https://github.com/promeG/TinyPinyin
 
-b、Awesome toolkit for android dev.https://github.com/pengjianbo/ToolsFinal
+（2）Awesome toolkit for android dev.https://github.com/pengjianbo/ToolsFinal
 
-c、a shortcut lib for easy use shortcut https://github.com/xuyisheng/ShortcutHelper
+（3）a shortcut lib for easy use shortcut https://github.com/xuyisheng/ShortcutHelper
+
+（4）Barcode Scanner Libraries for Android https://github.com/dm77/barcodescanner
 
 4、编译、调试
 
@@ -75,6 +110,8 @@ c、a shortcut lib for easy use shortcut https://github.com/xuyisheng/ShortcutHe
 
 （6）"Gradle User Guide" Chinese version https://github.com/DONGChuan/GradleUserGuide
 
+（7）android 逆向工程工具集 https://github.com/Juude/droidReverse
+
 5、任务、事件
 
 （1）A lightning fast, transactional, file-based FIFO for Android and Java. https://github.com/square/tape
@@ -88,6 +125,10 @@ https://github.com/Tencent/tinker
 
 （2）JSPatch bridge Objective-C and Javascript using the Objective-C runtime. You can call any Objective-C class and method in JavaScript by just including a small engine. JSPatch is generally used to hotfix iOS App. https://github.com/bang590/JSPatch
 
+（3）A plugin framework on android,Run any third-party apk without installation, modification or repackage https://github.com/DroidPluginTeam/DroidPlugin
+
+（4）AndFix is a library that offer hot-fix for Android App.https://github.com/alibaba/AndFix
+
 7、设计模式，架构模式
 
 （1）Rx和RxJava文档中文翻译项目 https://github.com/mcxiaoke/RxDocs
@@ -100,11 +141,17 @@ https://github.com/Tencent/tinker
 
 （5）Name UI states, navigate between them, remember where you've been. https://github.com/square/flow
 
+（6）MVP开发框架 https://github.com/Jude95/Beam
+
+（7）Android架构合集 https://github.com/Juude/Awesome-Android-Architecture
+
 8、网络
 
 （1）Asynchronous image downloader with cache support as a UIImageView category https://github.com/rs/SDWebImage
 
 （2）An HTTP+HTTP/2 client for Android and Java applications. https://github.com/square/okhttp
+
+（3）A delightful networking framework for iOS, OS X, watchOS, and tvOS. https://github.com/AFNetworking/AFNetworking
 
 9、视图增强
 
@@ -131,6 +178,14 @@ https://github.com/pengjianbo/GalleryFinal
 
 （11）An image loading and caching library for Android focused on smooth scrolling https://github.com/bumptech/glide
 
+（12）An Android library for managing images and the memory they use. https://github.com/facebook/fresco
+
+（13）Android library project for cropping images https://github.com/jdamcd/android-crop
+
+（14）Android fillable progress view working with SVG paths. This is a nice option too if you want to create an interesting branding logo for your app. https://github.com/JorgeCastilloPrz/AndroidFillableLoaders
+
+（15）android powerful picture picker https://github.com/ValuesFeng/AndroidPicturePicker
+
 10、权限
 
 （1）Android runtime permissions powered by RxJava https://github.com/tbruyelle/RxPermissions
@@ -142,5 +197,9 @@ https://github.com/pengjianbo/GalleryFinal
 （1）greenDAO is a light & fast ORM solution for Android that maps objects to SQLite databases.  https://github.com/greenrobot/greenDAO
 
 （2）A Java serialization/deserialization library that can convert Java Objects into JSON and back. https://github.com/google/gson
+
+（3）A fast JSON parser/generator for Java https://github.com/alibaba/fastjson
+
+（4）Multitask、Breakpoint-resume、High-concurrency、Simple to use、Single/NotSingle-process https://github.com/lingochamp/FileDownloader
 
 
