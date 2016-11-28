@@ -73,6 +73,16 @@ https://github.com/bingoogolapple/BGAAdapter-Android
 （34）Picker for android, include date&time/option/number/address/city/color/file&directory. https://github.com/gzu-liyujiang/AndroidPicker
 
 （35）仿iOS的PickerView控件，有时间选择和选项选择并支持一二三级联动效果 https://github.com/saiwu-bigkoo/Android-PickerView
+
+（36）The Most Powerful Swipe Layout! https://github.com/daimajia/AndroidSwipeLayout
+
+（37）"Favor composition over inheritance" for RecyclerView Adapters https://github.com/sockeqwe/AdapterDelegates
+
+（38）Paging indicator widgets compatible with the ViewPager from the Android Support Library and ActionBarSherlock.https://github.com/JakeWharton/ViewPagerIndicator
+
+（39）Library for playing gifs on Android https://github.com/Cutta/GifView
+
+（40）This library provides a simple way to add a draggable sliding up panel (popularized by Google Music and Google Maps) to your Android application. https://github.com/umano/AndroidSlidingUpPanel
  
 2、合集
 
@@ -89,6 +99,16 @@ https://github.com/bingoogolapple/BGAAdapter-Android
 （6）androiddemo合集 https://github.com/r17171709/android_demo
 
 （7）Do's and Don'ts for Android development, by Futurice developers https://github.com/futurice/android-best-practices
+
+（8）一个定期翻译国外Android优质的技术、开源库、软件架构设计、测试等文章的开源项目 https://github.com/hehonghui/android-tech-frontier
+
+（9）Architecture and code guidelines we use at ribot when developing for Android https://github.com/ribot/android-guidelines
+
+（10）Tips and tricks for Android Development https://github.com/nisrulz/android-tips-tricks
+
+（11）Android related examples https://github.com/hmkcode/Android
+
+（12）An awesome list of tips for android.  https://github.com/tangqi92/Android-Tips 
 
 3、工具
 
@@ -118,6 +138,8 @@ https://github.com/bingoogolapple/BGAAdapter-Android
 
 （7）android 逆向工程工具集 https://github.com/Juude/droidReverse
 
+（8）Application Crash Reports for Android https://github.com/ACRA/acra
+
 5、任务、事件
 
 （1）A lightning fast, transactional, file-based FIFO for Android and Java. https://github.com/square/tape
@@ -125,6 +147,8 @@ https://github.com/bingoogolapple/BGAAdapter-Android
 （2）Event Bus By RxJava. https://github.com/AndroidKnife/RxBus
 
 （3）A Job Queue specifically written for Android to easily schedule jobs (tasks) that run in the background, improving UX and application stability.https://github.com/yigit/android-priority-jobqueue
+
+（4）Lifecycle handling APIs for Android apps using RxJava https://github.com/trello/RxLifecycle
 
 6、热更新，插件等
 
@@ -196,6 +220,8 @@ https://github.com/pengjianbo/GalleryFinal
 
 （15）android powerful picture picker https://github.com/ValuesFeng/AndroidPicturePicker
 
+（16）基于Theme的Android动态换肤库，无需重启Activity、无需自定义View，方便的实现日间、夜间模式。https://github.com/hehonghui/Colorful
+
 10、权限
 
 （1）Android runtime permissions powered by RxJava https://github.com/tbruyelle/RxPermissions
@@ -211,5 +237,11 @@ https://github.com/pengjianbo/GalleryFinal
 （3）A fast JSON parser/generator for Java https://github.com/alibaba/fastjson
 
 （4）Multitask、Breakpoint-resume、High-concurrency、Simple to use、Single/NotSingle-process https://github.com/lingochamp/FileDownloader
+
+（5）Fast Android Development. Easy maintainance. https://github.com/androidannotations/androidannotations
+
+（6）Java HTML Parser, with best of DOM, CSS, and jquery https://github.com/jhy/jsoup
+
+（7）android java and javascript bridge, inspired by wechat webview jsbridge https://github.com/lzyzsd/JsBridge
 
 
