@@ -83,6 +83,24 @@ https://github.com/bingoogolapple/BGAAdapter-Android
 （39）Library for playing gifs on Android https://github.com/Cutta/GifView
 
 （40）This library provides a simple way to add a draggable sliding up panel (popularized by Google Music and Google Maps) to your Android application. https://github.com/umano/AndroidSlidingUpPanel
+
+（41）A ViewPager implemention base on RecyclerView's code. Support fling operation like gallary.https://github.com/lsjwzh/RecyclerViewPager
+
+（42）A fast ImageView that supports rounded corners, ovals, and circles.https://github.com/vinc3m1/RoundedImageView
+
+（43）支持 SingleLine 模式的标签云效果 https://github.com/kingideayou/TagCloudView
+
+（44）A TagView library for Android. Customize your own & Drag effect.https://github.com/whilu/AndroidTagView
+
+（45）ImageView with a tag on android https://github.com/wujingchao/SimpleTagImageView
+
+（46）A custom ViewPager title strip which gives continuous feedback to the user when scrolling https://github.com/ogaclejapan/SmartTabLayout
+
+（47）[DEPRECATED] A swipe menu for ListView.https://github.com/baoyongzhang/SwipeMenuListView
+
+（48）ListView、RecyclerView、ScrollView里嵌套ListView 相对优雅的解决方案 https://github.com/mcxtzhang/NestFullListView
+
+（49）0 coupling, support any ViewGroup. Step integration swipe (delete) menu, high imitation QQ, iOS. The most simple in the history, ~0耦合，支持任意ViewGroup。一步集成侧滑(删除)菜单，高仿QQ、IOS。史上最简单 https://github.com/mcxtzhang/SwipeDelMenuLayout
  
 2、合集
 
@@ -121,6 +139,8 @@ https://github.com/bingoogolapple/BGAAdapter-Android
 （4）Barcode Scanner Libraries for Android https://github.com/dm77/barcodescanner
 
 （5）Android Common Utils or Helper.https://github.com/litesuits/android-common
+
+（6）A text input validation library for Java https://github.com/yoojia/NextInputs
 
 4、编译、调试
 
@@ -179,6 +199,12 @@ https://github.com/Tencent/tinker
 
 （7）Android架构合集 https://github.com/Juude/Awesome-Android-Architecture
 
+（8）Streams of values over time https://github.com/ReactiveCocoa/ReactiveCocoa
+
+（9）This is starter template for writing Android apps using Clean architecture https://github.com/dmilicic/Android-Clean-Boilerplate
+
+（10）A collection of samples to discuss and showcase different architectural tools and patterns for Android apps. https://github.com/googlesamples/android-architecture
+
 8、网络
 
 （1）Asynchronous image downloader with cache support as a UIImageView category https://github.com/rs/SDWebImage
@@ -186,6 +212,8 @@ https://github.com/Tencent/tinker
 （2）An HTTP+HTTP/2 client for Android and Java applications. https://github.com/square/okhttp
 
 （3）A delightful networking framework for iOS, OS X, watchOS, and tvOS. https://github.com/AFNetworking/AFNetworking
+
+（4）A barebones WebSocket client and server implementation written in 100% Java. https://github.com/TooTallNate/Java-WebSocket
 
 9、视图增强
 
@@ -199,7 +227,7 @@ https://github.com/Tencent/tinker
 
 （5）Google's WebP image format decoder and encoder for iOS https://github.com/seanooi/iOS-WebP
 
-（6）A powerful Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, dragging and animations. https://github.com/PhilJay/MPAndroidChart
+（6）Pleasant Android application development https://github.com/Kotlin/anko
 
 （7）Harness the power of AutoLayout NSLayoutConstraints with a simplified, chainable and expressive syntax. Supports iOS and OSX Auto Layout https://github.com/SnapKit/Masonry
 
@@ -222,11 +250,15 @@ https://github.com/pengjianbo/GalleryFinal
 
 （16）基于Theme的Android动态换肤库，无需重启Activity、无需自定义View，方便的实现日间、夜间模式。https://github.com/hehonghui/Colorful
 
+（17）A Helper for SystemBar include StatusBar and NavigationBar. https://github.com/H07000223/FlycoSystemBar
+
 10、权限
 
 （1）Android runtime permissions powered by RxJava https://github.com/tbruyelle/RxPermissions
 
 （2）Android Library to help you with your runtime Permissions. https://github.com/k0shk0sh/PermissionHelper
+
+（3）Provides simple annotation-based API to handle runtime permissions. https://github.com/hotchemi/PermissionsDispatcher
 
 11、数据
 
@@ -243,5 +275,16 @@ https://github.com/pengjianbo/GalleryFinal
 （6）Java HTML Parser, with best of DOM, CSS, and jquery https://github.com/jhy/jsoup
 
 （7）android java and javascript bridge, inspired by wechat webview jsbridge https://github.com/lzyzsd/JsBridge
+
+12、图表
+
+（1）A powerful Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, dragging and animations. https://github.com/PhilJay/MPAndroidChart
+
+（2）Open-source native Android graph/chart framework includes line chart,stick chart,candlestick chart,pie chart,spider-web chart etc.
+https://github.com/limccn/Android-Charts
+
+（3）Charting library for Android applications. Automatically exported from code.google.com/p/achartengine
+https://github.com/ddanny/achartengine
+
 
 
